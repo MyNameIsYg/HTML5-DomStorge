@@ -1,0 +1,127 @@
+/* * {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+
+nav {
+    float: right;
+    width: 15%;
+    height: 900px;
+    background-color: rgb(184, 58, 142);
+    /* color: white; */
+    /* font-size: x-large; */
+    
+}
+
+section {
+    text-align: center;
+    float: none;
+    width: 80%;
+    height: 80%;
+    /* color: white; */
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(184, 58, 142);
+    /* color: white; */
+}
+
+menu {
+    background-color: rgb(184, 58, 142);
+    /* color: white; */
+}
+
+footer {
+    background-color: rgb(1, 228, 24);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    border-radius: 3px;
+    width: 100%;
+    bottom: 0;
+    position: sticky;
+}
+
+mark {
+    background-color: rgb(190, 66, 28);
+    /* color: white; */
+}
+
+button {
+    background-color: rgb(190, 66, 28);
+    /* color: white; */
+}
+
+h2,
+h3 {
+    color: rgb(190, 66, 28);
+    font-size: xx-large;
+    color: white;
+}
+
+#left {
+    text-align: left;
+    /* color: white; */
+}
+
+#fix {
+    position: fixed;
+    /* color: white; */
+}
+
+#sucssed {
+    font-size: 500%;
+    color: white;
+}
+
+#home {
+    text-align: left;
+    font-size: x-large;
+    color: white;
+}
+
+input {
+    background-color: white;
+    opacity: 50%;
+    color: black;
+    width: 150px;
+    color: white;
+}
+
+#registration {
+    font-size: x-large;
+    color: white;
+}
+
+.sub {
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: rgb(190, 66, 28);
+    font-size: xx-large;
+    border-radius: 10px;
+    opacity: inherit;
+}
+
+.display{
+    display: inline-block;
+}
+
+.display2, .display{
+    /* margin: 30px, 30px; */
+    margin-left: 5%;
+    margin-top: 5%;
+    padding: auto;
+    text-align: center;
+    width: 500px;
+}
+
+.display2{
+    border: outset;
+    border-color: rgb(184, 58, 142);
+    border-radius: 5px;
+    margin-left: 26%;
+    margin-right: 20%;
+}
